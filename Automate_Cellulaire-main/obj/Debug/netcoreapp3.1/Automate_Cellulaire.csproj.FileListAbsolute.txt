@@ -1,0 +1,27 @@
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\bin\Debug\netcoreapp3.1\Automate_Cellulaire.exe
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\bin\Debug\netcoreapp3.1\Automate_Cellulaire.deps.json
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\bin\Debug\netcoreapp3.1\Automate_Cellulaire.runtimeconfig.json
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\bin\Debug\netcoreapp3.1\Automate_Cellulaire.runtimeconfig.dev.json
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\bin\Debug\netcoreapp3.1\Automate_Cellulaire.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\bin\Debug\netcoreapp3.1\Automate_Cellulaire.pdb
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\obj\Debug\netcoreapp3.1\Automate_Cellulaire.csproj.AssemblyReference.cache
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\obj\Debug\netcoreapp3.1\Automate_Cellulaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\obj\Debug\netcoreapp3.1\Automate_Cellulaire.AssemblyInfoInputs.cache
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\obj\Debug\netcoreapp3.1\Automate_Cellulaire.AssemblyInfo.cs
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\obj\Debug\netcoreapp3.1\Automate_Cellulaire.csproj.CoreCompileInputs.cache
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\obj\Debug\netcoreapp3.1\Automate_Cellulaire.dll
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\obj\Debug\netcoreapp3.1\Automate_Cellulaire.pdb
+D:\Mes_Trucs\DUT Informatique\2 ième Année\Algorithmique\Automate_Cellulaire\Automate_Cellulaire\obj\Debug\netcoreapp3.1\Automate_Cellulaire.genruntimeconfig.cache
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\bin\Debug\netcoreapp3.1\Automate_Cellulaire.exe
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\bin\Debug\netcoreapp3.1\Automate_Cellulaire.deps.json
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\bin\Debug\netcoreapp3.1\Automate_Cellulaire.runtimeconfig.json
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\bin\Debug\netcoreapp3.1\Automate_Cellulaire.runtimeconfig.dev.json
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\bin\Debug\netcoreapp3.1\Automate_Cellulaire.dll
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\bin\Debug\netcoreapp3.1\Automate_Cellulaire.pdb
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\obj\Debug\netcoreapp3.1\Automate_Cellulaire.csprojAssemblyReference.cache
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\obj\Debug\netcoreapp3.1\Automate_Cellulaire.AssemblyInfoInputs.cache
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\obj\Debug\netcoreapp3.1\Automate_Cellulaire.AssemblyInfo.cs
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\obj\Debug\netcoreapp3.1\Automate_Cellulaire.csproj.CoreCompileInputs.cache
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\obj\Debug\netcoreapp3.1\Automate_Cellulaire.dll
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\obj\Debug\netcoreapp3.1\Automate_Cellulaire.pdb
+C:\Users\justi\OneDrive\Bureau\Automate_Cellulaire-main\obj\Debug\netcoreapp3.1\Automate_Cellulaire.genruntimeconfig.cache
